@@ -1,1 +1,4 @@
-public static void class Element {}
+public static void class Element {
+	void main {
+	}
+}
